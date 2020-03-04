@@ -1,0 +1,82 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Circle.cpp
+Circle.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Circle.h
+
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Circle.h
+math.h
+-
+Shape.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Shape.h
+
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Point.h
+
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Rectangle.cpp
+Rectangle.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Rectangle.h
+Shape.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Shape.h
+Rectangle.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Rectangle.h
+
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Rectangle.h
+iostream
+-
+Shape.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Shape.h
+
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Shape.cpp
+Shape.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Shape.h
+Shape.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Shape.h
+Point.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Point.h
+
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Shape.h
+iostream
+-
+Point.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Point.h
+
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Square.cpp
+Square.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Square.h
+
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Square.h
+Rectangle.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Rectangle.h
+
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Triangle.cpp
+Triangle.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Triangle.h
+
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Triangle.h
+cmath
+-
+Shape.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Shape.h
+
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/main.cpp
+iostream
+-
+Point.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Point.h
+Shape.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Shape.h
+Rectangle.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Rectangle.h
+Square.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Square.h
+Triangle.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Triangle.h
+Circle.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2312 Object Oriented Programming/shape/Circle.h
+
