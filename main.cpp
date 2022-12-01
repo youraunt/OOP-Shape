@@ -1,12 +1,4 @@
-/*
-Name: David Russell
-Course: CSCI 2312
-Assignment: Programming Assignment 2
-Due Date: 2/19/20
-Description:  Implement a system of classes to create various shapes using the principles of inheritance and polymorphism.
-			  This program contains 5 shape classes and one point struct.  The main driver will output a drawing to the console
-			  with 7 shapes, each shape's area and circumference, and the total area and circumference of the drawing.
-*/
+
 
 #include <iostream>
 #include "Point.h"
